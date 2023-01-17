@@ -1,6 +1,6 @@
 # Twitter-HubSpot-CLI
 
-## Create a HubSpot Contact from Twitter User
+## Create a HubSpot contact from a Twitter user
 
 This program allows you to create a contact in HubSpot using data from a specific Twitter user.
 
